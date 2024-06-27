@@ -7,3 +7,5 @@ moaz's first modification
 Ziad's first commit in the branch ziad
 
 adding new lines to merg ff
+
+adding new lines to merg no-ff merge
